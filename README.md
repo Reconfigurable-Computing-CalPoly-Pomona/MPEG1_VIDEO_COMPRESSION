@@ -21,3 +21,8 @@ This work has beed done by ECE students at Cal Poly Pomona as a collaboration wi
 # Official Presentation by the group:
 
 https://youtu.be/S8GB3TAaYwY
+
+
+# Project Sponsors:
+
+# 1. Xilinx Inc.

@@ -25,4 +25,4 @@ https://youtu.be/S8GB3TAaYwY
 
 # Project Sponsors:
 
-# 1. Xilinx Inc.
+1. Xilinx Inc.

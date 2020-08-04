@@ -17,6 +17,7 @@ This work has beed done by ECE students at Cal Poly Pomona as a collaboration wi
 
 - Mohamed El-Hadedy: Assistant Professor, Electrical and Computer Engineering department, College of Engineering, California State Polytechnic University, Pomona.
 
+- Anas Salah Eddin: Assistant Professor, Electrical and Computer Engineering department, College of Engineering, California State Polytechnic University, Pomona.
 
 # Official Presentation by the group:
 
